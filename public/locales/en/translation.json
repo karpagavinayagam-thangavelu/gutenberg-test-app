@@ -1,0 +1,13 @@
+{
+    "LoadingText": "Loading...",
+    "SearchEndMessage": "Search Completed",
+    "LandingTitle": "Gutenberg Project",
+    "LandingSubTitle": "A social cataloging website that allows you to freely search its database of books, annotations, and reviews.",
+    "FICTION": "fiction",
+    "DRAMA": "drama",
+    "HUMOUR":"humour",
+    "POLITICS":"politics",
+    "PHILOSOPHY": "Philosophy",
+    "HISTORY": "history",
+    "ADVENTURE":"adventure"
+}
